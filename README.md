@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Swift UIkit
 - 💞️ I’m looking to collaborate on Apple Developer 
 - 📫 How to reach me Artichect Backend and Ios Developer of Silicon Valley
-- 😄 Pronouns: 😎
+- 😄 Pronouns: 😃
 - ⚡ Fun fact: i am whistle boy
 
 <!---
